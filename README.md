@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Libirub
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning python and java
+- 📫 How to reach me gabriellimascherpel@gmail.com
